@@ -1,2 +1,4 @@
-msg = "hello world"
-print(msg)
+def msg ():
+    print("hello world")
+    return
+msg();
